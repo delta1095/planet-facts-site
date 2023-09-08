@@ -1,0 +1,10 @@
+:root {
+  --clr-background-color: #070724;
+}
+
+.App {
+  background-image: url("./Components/Images/background-stars.svg");
+  background-color: var(--clr-background-color);
+  display: flex;
+  justify-content: center;
+}
